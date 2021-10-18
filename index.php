@@ -61,7 +61,7 @@
   <div class="site-branding stackabl-head">
     <h1 class="site-title">Welcome to Stackabl demo website</h1>
     <p class="site-description">
-      Stackabl is a next generation,ff virtual development environment (VDE). With
+      Stackabl is a next generation,ff adsasvirtual development environment (VDE). With
       this tool you have the freedom to create unlimited websites with just
       1-Click. Simply pick your favourite Content Management System (CMS),
       including WordPress, Joomla, Drupal, or Magento, and click create project.
